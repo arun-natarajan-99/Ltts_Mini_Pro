@@ -28,7 +28,8 @@ TESTING REQ.:
         
 
 SWOT Analysis:
- ![download (1)](https://user-images.githubusercontent.com/80808104/115008796-30d7db80-9ec9-11eb-80da-a45a3811ac60.png)
+
+ (https://user-images.githubusercontent.com/80808104/115008796-30d7db80-9ec9-11eb-80da-a45a3811ac60.png)
  
  HIGH LEVEL REQUIREMENTS: 
   HLR01 Able to read and select the option.
